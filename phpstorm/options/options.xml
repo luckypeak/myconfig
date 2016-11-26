@@ -1,0 +1,10 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="2" />
+  </component>
+</application>

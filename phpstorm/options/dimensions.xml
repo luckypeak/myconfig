@@ -1,0 +1,9 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="438" y="256" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="473" y="235" />
+    <location key="NewPhpFileDialog.0.0.1440.900" x="541" y="363" />
+    <location key="SettingsEditor.0.0.1440.900" x="209" y="91" />
+  </component>
+</application>

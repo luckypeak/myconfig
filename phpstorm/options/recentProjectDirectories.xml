@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/PhpstormProjects/ss" />
+      </list>
+    </option>
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PhpstormProjects/ss">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-163.7743.50" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1480165388400" />
+              <option name="buildTimestamp" value="1479815281488" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PhpstormProjects" />
+  </component>
+</application>
